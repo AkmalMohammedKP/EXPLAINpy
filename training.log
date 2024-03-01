@@ -1,0 +1,24 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 832-733-745
+INFO:werkzeug:127.0.0.1 - - [01/Mar/2024 03:58:20] "POST /code HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\voidc\\Downloads\\project\\main.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 832-733-745
+INFO:root:Epoch [1/10], Loss: 9.234884262084961
+INFO:root:Epoch [2/10], Loss: 5.1039509773254395
+INFO:root:Epoch [3/10], Loss: 4.67822790145874
+INFO:root:Epoch [4/10], Loss: 4.6033501625061035
+INFO:root:Epoch [5/10], Loss: 8.35765552520752
+INFO:root:Epoch [6/10], Loss: 4.161654949188232
+INFO:root:Epoch [7/10], Loss: 4.641935348510742
+INFO:root:Epoch [8/10], Loss: 4.330634117126465
+INFO:root:Epoch [9/10], Loss: 3.9369492530822754
+INFO:root:Epoch [10/10], Loss: 3.449349880218506
+INFO:werkzeug:127.0.0.1 - - [01/Mar/2024 04:05:40] "POST /feedback HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 832-733-745
+INFO:werkzeug:127.0.0.1 - - [01/Mar/2024 04:07:27] "POST /code HTTP/1.1" 200 -
